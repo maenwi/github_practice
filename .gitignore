@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+git_ignore_file1/
+git_ignore_file2/
+git_ignore_file3/

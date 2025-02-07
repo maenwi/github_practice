@@ -1,1 +1,0 @@
-git ignore test를 위한 임시 파일입니다.
